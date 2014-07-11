@@ -1,7 +1,9 @@
 wintools
 ========
 
-Some tools I wrote when I was on Windows. This repository is more of a nostalgia tour than anything else.
+Some tools I wrote when I was on Windows. This repository is more of a nostalgia tour than anything else. If you're looking for a full suite of POSIX tools, try cygwin. If you're looking for a one-off script, please feel free :-)
+
+
 
 My Google-fu used to be apalling. Back when I was at uni, and before I truly started exploring Linux/GNU and its rich command set, I found that I was lacking a few tools for day-to-day work. Using the tools I had at the time, I came up with what you see in this directory.
 
